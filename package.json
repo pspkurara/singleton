@@ -1,0 +1,13 @@
+{
+  "description": "Supports Unity's simple Singleton Behavior.",
+  "displayName": "Singleton",
+  "author": "pspkurara",
+  "keywords": [
+    "Script",
+    "Singleton"
+  ],
+  "name": "com.pspkurara.singleton",
+  "unity": "2018.2",
+  "version": "1.0.0",
+  "type": "library"
+}
