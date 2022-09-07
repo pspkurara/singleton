@@ -1,0 +1,20 @@
+{
+    "name": "Pspkurara.Singleton.Runtime",
+    "rootNamespace": "Pspkurara.Singleton",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.ugui",
+            "expression": "",
+            "define": "SINGLETON_UGUI_SUPPORT"
+        }
+    ],
+    "noEngineReferences": false
+}
