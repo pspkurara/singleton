@@ -53,6 +53,9 @@ public class SampleAccess : MonoBehaviour
 }
 ```
 
+### Full API references
+* https://pspkurara.github.io/singleton/
+
 ## Installation
 
 ### Using OpenUPM
